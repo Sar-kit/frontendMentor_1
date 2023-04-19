@@ -1,0 +1,29 @@
+/*
+@font-face {
+    font-family: Outfit;
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
+*/
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+#main {
+    background-color: hsl(0, 0%, 100%);
+    font-family: Outfit;
+    border-radius: 10px;
+}
+
+#main_img {
+    border-radius: 5px;
+}
+#main_htext{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+#main_btext{
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
