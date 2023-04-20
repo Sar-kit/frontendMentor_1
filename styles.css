@@ -55,5 +55,12 @@ body{
 }
 
 .attribution{
-    margin-top: 15%;
+    position: fixed;
+    bottom: 0%;
+}
+
+@media (max-height: 450px) {
+    .attribution{
+        position: relative;
+    }
 }
